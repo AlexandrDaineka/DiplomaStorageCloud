@@ -1,0 +1,17 @@
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\model\Seance.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\model\User.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\model\File.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\service\FileService.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\dto\AuthentificationRequest.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\exception\InputDataException.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\service\AuthentificationService.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\utils\CommonUtils.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\repository\UserRepository.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\webConfig\WebConfig.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\controller\CloudController.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\dto\AuthentificationResponse.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\repository\FileRepository.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\exception\FileNotFoundException.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\DiplomaStorageCloudApplication.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\model\FileData.java
+C:\Users\Александр Дайнека\IdeaProjects\DiplomaStorageCloud\src\main\java\daineka\diplomastoragecloud\exception\SeanceException.java
