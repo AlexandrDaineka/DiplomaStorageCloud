@@ -103,6 +103,7 @@ public class FileService {
             log.error("Пользователь не найден");
             throw new SeanceException("Пользователь с таким логином не найден");
         }
+        log.info("Пользователь успешно проверён: {}", authToken);
         return Objects.requireNonNull(sessionResult).getUserID();
     }
 
@@ -112,6 +113,7 @@ public class FileService {
             log.error("Файл с именем " + fileName + " не найден!");
             throw new FileNotFoundException("Файл с именем " + fileName + " не найден!");
         }
+        log.info("Файл с именем {} успешно найден!", fileName);
         return checkFile.get();
     }
 }
